@@ -1,0 +1,13 @@
+WDCPack patch notes
+
+Alpha 1.0:0
+> Changed textures for diamond block, diamond, diamond axe, diamond boots, diamond chestplate and diamond helmet to a reddish colour (ruby).
+
+Alpha 1.0:1
+> Changed textures for diamond ore, diamond block, diamond hoe, diamond horse armor, diamond leggings, diamond pickaxe, diamond shovel and diamond sword to a reddish colour (ruby).
+> Replaced old splash texts with new ones.
+> Added a new icon for the Minecraft Realms Trial.
+
+Alpha 1.0:2
+> Added an outline for diamond ore.
+
