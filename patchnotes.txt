@@ -12,3 +12,8 @@ v1.0-alpha.2
 > Added an outline for all of the ores, except nether quartz.
 > Changed colour of iron ore to a darker variant (a darker variant for all iron coming soon).
 > Changed colour of emerald ore to purple (amethyst)(an amethyst variant for all emerald coming soon).
+
+v1.0-alpha.3
+> Added an outline for nether quartz.
+> Fixed red diamond armor not showing on player.
+> Fixed Minecraft thinking that the resource pack is made for an older version of Minecraft
