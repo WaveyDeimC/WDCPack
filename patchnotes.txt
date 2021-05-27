@@ -17,3 +17,7 @@ v1.0-alpha.3
 > Added an outline for nether quartz.
 > Fixed red diamond armor not showing on player.
 > Fixed Minecraft thinking that the resource pack is made for an older version of Minecraft
+
+v1.1-alpha
+> Iron is now it's original colour.
+> All emeralds are purple (amethyst).
