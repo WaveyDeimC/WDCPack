@@ -21,3 +21,12 @@ v1.0-alpha.3
 v1.1-alpha
 > Iron is now it's original colour.
 > All emeralds are purple (amethyst).
+
+v2.0-alpha / The GUI update 1
+> WDCPack is now compatible with 1.17
+> Fixed Minecraft Realms Trial icon
+> Added credits
+> Added new icons to GUI
+> Added new splashes
+> Changed GUI for anvil, brewing stand, cartography table and crafting table
+
