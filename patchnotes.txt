@@ -37,4 +37,4 @@ v3.0-alpha / The cave update 1
 > All ores are now one texture
 > All ores are now one colour
 > Updated credits
-	> Added Pwskar and Vontaxz to the Special thanks section
+	> Added Pwskar and Vontaxz to the Special thanks sectiona
